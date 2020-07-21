@@ -12,7 +12,7 @@ import br.com.java_webflux.services.TechService;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
-@RestController
+//@RestController
 public class TechController {
 
 	@Autowired
